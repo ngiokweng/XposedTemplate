@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\user\Desktop\A\app_reverse\yrx_sec10\nativelib\.cxx\Debug\5e1j6g61\arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -630330110
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1476159533
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -577494593
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1069349021
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -642856463
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1912240583
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2103397587
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5e1j6g61\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5e1j6g61\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\.cxx\\\\Debug\\\\5e1j6g61\\\\armeabi-v7a\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1927432488
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5e1j6g61\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5e1j6g61\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\user\\\\Desktop\\\\A\\\\app_reverse\\\\yrx_sec10\\\\nativelib\\\\.cxx\\\\Debug\\\\5e1j6g61\\\\armeabi-v7a\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1738751033
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1441185449
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -955202714
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\.cxx\\Debug\\5e1j6g61\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1859272839
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\user\\Desktop\\A\\app_reverse\\yrx_sec10\\nativelib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 982870370
+  }
+]

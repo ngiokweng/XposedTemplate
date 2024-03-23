@@ -1,0 +1,4 @@
+ninja: Entering directory `C:\Users\user\Desktop\A\app_reverse\yrx_sec10\nativelib\.cxx\Debug\531t6k5c\x86'
+[1/2] Building CXX object CMakeFiles/nativelib.dir/nativelib.cpp.o
+clang++: warning: -Wl,-Bsymbolic: 'linker' input unused [-Wunused-command-line-argument]
+[2/2] Linking CXX shared library C:\Users\user\Desktop\A\app_reverse\yrx_sec10\nativelib\build\intermediates\cxx\Debug\531t6k5c\obj\x86\libnativelib.so
